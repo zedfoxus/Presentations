@@ -3,6 +3,12 @@
 This presentation mostly talks about Antipatterns but has some 
 simple examples specific to C#
 
+## StackOverflow18627032.zip
+This is a zip of a C# console application that allows updation
+of Excel 2010's data in a sheet or a named range. This project
+relates to [question 18627032](http://stackoverflow.com/questions/18627032/update-excel-2010-but-no-row-changes)
+and [question 18691334](http://stackoverflow.com/questions/18691334/how-to-specify-excel-hdr)
+
 ## LICENSE
 [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html)
 
